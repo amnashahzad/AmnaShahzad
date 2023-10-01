@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/amna-shahzad-2a73a8245/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="Amna Shahzad" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/amna-shahzad-2a73a8245/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Amna Shahzad" height="30" width="40" /></a>
   <a href="https://www.instagram.com/youngestdeveloper/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Amna Shahzad" height="30" width="40" /></a>
   <a href="https://www.facebook.com/profile.php?id=61550535254436" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Amna Shahzad" height="30" width="40" /></a>
   <a href="https://github.com/amnashahzad" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Amna Shahzad" height="30" width="40" /></a>
