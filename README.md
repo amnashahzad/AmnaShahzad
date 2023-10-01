@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amnashahzad" alt="amnashahzad" /></a> </p>
 
-- 🌱 I’m currently learning **DialogFlow, OpenAI**
+- 🌱 I’m currently work in company Bits Collision Company 
 
 - 👨‍💻 I work at [Bits Collision](https://www.bitscollision.com/)
 
